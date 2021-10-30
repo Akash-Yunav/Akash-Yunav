@@ -1,11 +1,10 @@
 # Akash-Yunav
 Hello 👋, I'm Akash Srivastava
-A Full Stack developer from India
-Akash-Yunav
+A Full Stack developer
 
 
 
-GIF
+
 
 🔭 I’m currently working on Pocket Labs
 
