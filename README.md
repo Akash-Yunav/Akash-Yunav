@@ -1,6 +1,6 @@
 # Akash-Yunav
-Hello 👋, I'm Akash Srivastava
-A Full Stack developer
+#Hello 👋, I'm Akash Srivastava
+#A Full Stack developer
 
 
 
