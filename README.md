@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on Pocket Labs
 
-🌱 I’m currently learning data structures & algorithms and Machine Learning
+🌱 I’m currently learning Data Structures & Algorithms and Machine Learning
 
 👨‍💻 All of my projects are available at Website
 
