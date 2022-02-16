@@ -1,5 +1,8 @@
 # Akash-Yunav
-## Hello 👋, I'm Akash Srivastava
+<p align="center">
+    ## Hello 👋, I'm Akash Srivastava
+</p>
+
 ### A Front end developer
 
 
