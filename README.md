@@ -1,17 +1,17 @@
 # Akash-Yunav
 ## Hello 👋, I'm Akash Srivastava
-### A Full Stack developer
+### A Front end developer
 
 
 
 
 
-🔭 I’m currently working on Pocket Labs
+🔭 I’m currently working on **Pocket Labs**
 
-🌱 I’m currently learning Data Structures & Algorithms and Machine Learning
+🌱 I’m currently learning **Data Structures & Algorithms** & **MERN Stack**
 
-👨‍💻 All of my projects are available at Website
+👨‍💻 All of my projects are available at **Website**
 
-💬 Talk to me about Javascript, React and Flask
+💬 Talk to me about **Javascript**, **React** and **Algorithms**
 
-📫 Get in touch with me at aakashsrivastava62@gmail.com
+📫 Get in touch with me at [aakashsrivastava62@gmail.com](mailto:aakashsrivastava62@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
